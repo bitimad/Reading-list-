@@ -1,8 +1,8 @@
 # Reading-list-
 This is my reading list/ books i use to learn about and practice machine learning principles and algorithms:
 
-1- Applied Predictive Modeling by Kuhn, MaxJohnson, Kjell.
-2- Artificial Intelligence A Modern Approach (Pearson Series in Artifical Intelligence) by Stuart Russell, Peter Norvig. 
+1- Applied Predictive Modeling by Kuhn, MaxJohnson, Kjell. /n
+2- Artificial Intelligence A Modern Approach (Pearson Series in Artifical Intelligence) by Stuart Russell, Peter Norvig. /n
 3- Bayesian reasoning and machine learning by Barber.
 4- Data Mining Practical Machine Learning Tools and Techniques, Fourth Edition by Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal.
 5- Deep Learning Adaptive Computation and Machine Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
